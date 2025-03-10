@@ -1,9 +1,9 @@
 ---
 # Если хотите пояснить код, можно добавить комментарий с помощью символа #
-name: Ilona Maskova # Ваше имя
+name: Leonid Stavrov # Ваше имя
 job: QA Engineer
 level: junior
-email: ilona@hexlet.io
+email: leonid@hexlet.io
 description: |
   Этот текст — описание в свободной форме. Здесь можно рассказать пару интересных фактов про себя.
 
