@@ -10,7 +10,7 @@
     Быстрая загрузка страницы
   actual-result: |
     Медленная загрузка страницы
-  screenshot: https://github.com/LeonidStavrov/qa-engineer-project-84/blob/main/slow_page_loading.jpg
+  screenshot: https://github.com/LeonidStavrov/qa-engineer-project-84/blob/main/assets/slow_page_loading.jpg
 
 - summary: |
     Нет формы регистрации/авторизации
@@ -37,7 +37,7 @@
     В списке языков отображаются изображение и язык
   actual-result: |
     У английского языка нет изображения
-  screenshot: https://github.com/LeonidStavrov/qa-engineer-project-84/blob/main/img_bug_lang.jpg
+  screenshot: https://github.com/LeonidStavrov/qa-engineer-project-84/blob/main/assets/img_bug_lang.jpg
 
 - summary: |
     Нельзя сбросить фильтр по категориям
@@ -52,7 +52,7 @@
     В фильтре есть возможность сброса
   actual-result: |
     Возможности сброса фильтра нет
-  screenshot: https://github.com/LeonidStavrov/qa-engineer-project-84/blob/main/filter_bug.jpg
+  screenshot: https://github.com/LeonidStavrov/qa-engineer-project-84/blob/main/assets/filter_bug.jpg
 
 - summary: |
     Пустая строка в фильтре по производителю
@@ -66,7 +66,7 @@
     Пустых строк в фильтре не должно быть
   actual-result: |
     Пустое наименование
-  screenshot: https://github.com/LeonidStavrov/qa-engineer-project-84/blob/main/empty_name_filter.jpg
+  screenshot: https://github.com/LeonidStavrov/qa-engineer-project-84/blob/main/assets/empty_name_filter.jpg
 
 - summary: |
     Фильтр работает только на товары текущей страницы
